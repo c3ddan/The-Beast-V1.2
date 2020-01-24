@@ -7,6 +7,8 @@ These files were created in Autodesk Inventor.  Files should also be openable an
 
 The full assembly can be opened with the file "The Beast v1.2 PackandGo\Workspaces\Workspace\Main assembly.iam"
 
+A "Main assembly.STEP" file has also been created for compatability. 
+
 For product support, please see http://cultivate3d.com/forums
 
 More information available here https://cultivate3d.com/oldlinks
